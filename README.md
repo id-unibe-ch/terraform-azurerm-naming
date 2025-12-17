@@ -1,5 +1,9 @@
 # Azure Naming
 
+**NOTE:** This fork is intended to be removed as soon as the upstream repo shows
+progress again and merges features that we need. Meanwhile we add these features
+ourselves here.
+
 This module helps you to keep consistency on your resources names for Terraform The goal of this module it is that for each resource that requires a name in Terraform you would be easily able to compose this name using this module and this will keep the consistency in your repositories.
 
 ## Usage
@@ -376,7 +380,7 @@ No modules.
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
